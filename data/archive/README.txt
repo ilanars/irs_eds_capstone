@@ -1,2 +1,2 @@
-Old versions and superseded files live here.
+Old versions and superseded files.
 Always date your archived files.

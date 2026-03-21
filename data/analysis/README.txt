@@ -1,1 +1,2 @@
-Analysis docs and notebooks will be stored in this folder. Organize by date
+Extra analysis docs / notebooks go here.
+Organize by analysis type or date.
