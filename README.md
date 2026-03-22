@@ -52,6 +52,26 @@ Data link: [SCACIS Data](https://scacis.rcc-acis.org/)
 - Run simple regression: heat + SNAP recipients
 - Run multiple regression: heat + lagged heat + SNAP recipients + seasonality control
 
+## Repository Structure
+
+```
+irs_eds_capstone/
+├── data/                  # All datasets and related files
+│   ├── raw_data/          # Original, untouched data
+│   ├── processed_data/    # Cleaned datasets
+│   ├── analysis/          # Intermediate analysis files
+│   ├── outputs/           # Final tables, figures
+│   ├── metadata/          # Data documentation
+│   ├── archive/           # Unnecessary or old data
+│   └── README.md          # Data folder overview
+├── scripts/               # All code and scripts
+│   ├── archive_scripts/   # Old scripts
+│   └── README.md          # Scripts folder overview
+└── communication/         # Slides, reports, presentations
+    └── README.md          # Communication folder overview
+```
+
+
 ## Other Notes
 
 - The main Jupyter notebook that has data cleaning, EDA, and analysis is called: "SNAP_TEMP_cleanup_analysis_012826"

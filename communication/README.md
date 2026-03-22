@@ -1,0 +1,1 @@
+This folder contains the materials to communicate my project, including presentation materials
