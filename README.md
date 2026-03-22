@@ -53,25 +53,23 @@ Data link: [SCACIS Data](https://scacis.rcc-acis.org/)
 - Run multiple regression: heat + lagged heat + SNAP recipients + seasonality control
 
 ## Repository Structure
-
 ```
 irs_eds_capstone/
+├── communication/         # Slides, reports, presentations
+│   └── README.md          # Communication folder overview
 ├── data/                  # All datasets and related files
-│   ├── raw_data/          # Original, untouched data
-│   ├── processed_data/    # Cleaned datasets
 │   ├── analysis/          # Intermediate analysis files
-│   ├── outputs/           # Final tables, figures
-│   ├── metadata/          # Data documentation
 │   ├── archive/           # Unnecessary or old data
+│   ├── metadata/          # Data documentation
+│   ├── outputs/           # Final tables, figures
+│   ├── processed_data/    # Cleaned datasets
+│   ├── raw_data/          # Original, untouched data
 │   └── README.md          # Data folder overview
 ├── scripts/               # All code and scripts
 │   ├── archive_scripts/   # Old scripts
 │   └── README.md          # Scripts folder overview
-├── communication/         # Slides, reports, presentations
-│    └── README.md         # Communication folder overview
 └── README.md              # Project overview
 ```
-
 
 ## Other Notes
 
