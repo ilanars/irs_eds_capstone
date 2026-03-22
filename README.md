@@ -18,3 +18,7 @@ Hotter summers --> Pressure on household budgets due to higher energy bills --> 
 - SNAP Participation Data: NYC Human Resource Administration (HRA) via NYC OpenData
 - Monthly Temperature Data: National Weather Service
 - Daily Temperature Data: SCACIS
+
+## Other Notes
+- The main jupyter notebook where my data cleaning, EDA, and analysis is called: "SNAP_TEMP_cleanup_analysis_012826"
+- This is located in the "Scripts" folder.
