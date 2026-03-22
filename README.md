@@ -78,3 +78,5 @@ irs_eds_capstone/
 - The main Jupyter notebook that has data cleaning, EDA, and analysis is called: "SNAP_TEMP_cleanup_analysis_012826"
 - This is located in the "Scripts" folder.
 
+## Contact Information
+- ilanaRschwartz@gmail.com
