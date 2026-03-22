@@ -77,4 +77,6 @@ irs_eds_capstone/
 - This is located in the "Scripts" folder.
 
 ## Contact Information
+- Ilana Schwartz
 - ilanaRschwartz@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/ilana-schwartz-755295103/)
