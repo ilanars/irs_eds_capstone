@@ -67,8 +67,9 @@ irs_eds_capstone/
 ├── scripts/               # All code and scripts
 │   ├── archive_scripts/   # Old scripts
 │   └── README.md          # Scripts folder overview
-└── communication/         # Slides, reports, presentations
-    └── README.md          # Communication folder overview
+├── communication/         # Slides, reports, presentations
+│    └── README.md         # Communication folder overview
+└── README.md              # Pro overview
 ```
 
 
