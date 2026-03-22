@@ -69,7 +69,7 @@ irs_eds_capstone/
 │   └── README.md          # Scripts folder overview
 ├── communication/         # Slides, reports, presentations
 │    └── README.md         # Communication folder overview
-└── README.md              # Pro overview
+└── README.md              # Project overview
 ```
 
 
